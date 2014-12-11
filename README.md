@@ -5,11 +5,11 @@ Documentation
 =============
 The Fashionunited platform connects your website or application with the worldwide fashion conversation happening on Fashionunited.
 
-API (push)
+Jobs API (push)
 ===
 Explanation here
 
-non-API (pull)
+Jobs non-API (pull)
 =======
 Explanation here
 
