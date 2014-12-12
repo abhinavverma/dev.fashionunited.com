@@ -7,7 +7,7 @@ The Fashionunited platform connects your website or application with the worldwi
 
 Jobs API (push)
 ===
-The Jobs API retrieves jobs through one simple keyword.
+The Jobs API retrieves jobs through one simple keyword. It is thoroughly execellent.
 
 Jobs non-API (pull)
 =======
