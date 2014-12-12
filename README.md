@@ -1,4 +1,4 @@
-Fashionunited Developers
+FashionUnited Developers
 ------------------------
 
 Documentation
@@ -14,7 +14,9 @@ Jobs non-API (pull) - XML Feeds
 Explanation here
 
 
-
+FashionUnited for Websites
+==========================
+Fashionunited for Websites is a suite of embeddable widgets, buttons, and client-side scripting tools to integrate Fashionunited and display jobs on your website or JavaScript application, including the Universal Job Apply Button, Embedded Jobs, and Embedded Job Timelines.
 
 
 
@@ -27,9 +29,7 @@ Explanation here
 
 
 <!---
-Fashionunited for Websites
-==========================
-Fashionunited for Websites is a suite of embeddable widgets, buttons, and client-side scripting tools to integrate Fashionunited and display jobs on your website or JavaScript application, including the Universal Job Apply Button, Embedded Jobs, and Embedded Job Timelines.
+
 
 OAuth
 =====
