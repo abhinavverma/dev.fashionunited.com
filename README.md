@@ -1,21 +1,21 @@
 FashionUnited Developers
-------------------------
+========================
 
 Documentation
-=============
+-------------
 The Fashionunited platform connects your website or application with the worldwide fashion conversation happening on Fashionunited.
 
 Jobs API (push) - XML Feeds
-===
+---------------------------
 The Jobs API retrieves jobs through one simple keyword. It is thoroughly execellent.
 
 Jobs non-API (pull) - XML Feeds
-=======
+-------------------------------
 Explanation here
 
 
 FashionUnited for Websites
-==========================
+--------------------------
 Fashionunited for Websites is a suite of embeddable widgets, buttons, and client-side scripting tools to integrate Fashionunited and display jobs on your website or JavaScript application, including the Universal Job Apply Button, Embedded Jobs, and Embedded Job Timelines.
 
 
