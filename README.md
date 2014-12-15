@@ -9,9 +9,12 @@ Jobs API (push) - XML Feeds
 ---------------------------
 Web Services To Post Jobs to FashionUnited Central Job-Board
 
-Introduction :  FashionUnited uses API Post the job over http post, to post the job we prefer URL encoded XML format data (the structure of the XML is explained below). We use 2 Method in our API. to use this API username and password is mandatory, username and password is provided by Fashionunited so one can request Fashionunited to get a username and password, for a new username and password the client need to provide us an email address which will be associated with API call.
+### Introduction
+FashionUnited uses API Post the job over http post, to post the job we prefer URL encoded XML format data (the structure of the XML is explained below). We use 2 Method in our API. to use this API username and password is mandatory, username and password is provided by Fashionunited so one can request Fashionunited to get a username and password, for a new username and password the client need to provide us an email address which will be associated with API call.
 
 Create – to create single/multiple Jobs at a time.
+Read - Not supported
+Update - Not supported
 Delete – to delete single/multiple jobs at a time.
 Parameters :  The parameter are pre defined and must be sent on each request while requesting API call. 
 
@@ -19,7 +22,7 @@ xml – XML file in URL encoded format.
 method – method to call defined function (add/delete).
 submit – this parameter must have value as submit.
 
-XML structures :
+### XML structures
 
 Adding a job:
 ```xml
@@ -64,95 +67,28 @@ Adding a job:
     </item>
 </job>
 ```
- 
-
-XML Nodes
-Details
-Data Type
-Data Size
-username
-Username provided by FashionUnited to API User
-Character
-200 characters
-password
-Password Provided by FashionUnited to API User
-Character & special Characters
-100 characters
-sender
-Sender Name
 
 
-Characters
-150 Characters
-cust_job_id
-Customer job ID which must be unique
-Integer
-40
-published
-Status to publish or unpublish
-
-
-Enum
-1 or 0 (1 to publish and 0 to unpublish)
-job_title
-Title of the job
-Characters
-255 Characters
-company_name
-Name of the company offering the job
-Characters
-255 characters
-
-
-
-location
-Job location (City or area)
-Character
-255 Characters
-country
-Country of job
-Integer
-As defined by fashionunited
-cname
-Contact name of concern person for the job
-Characters
-255 characters
-cemail
-Contact email
-Characters
-255 characters
-cphone
-Contact phone number
-
-
-Integers
-255 characters
-description
-Jobs description along with images if needed allowed in HTML format
-Text
-2500 Characters
-htapply
-Ho to apply for the job (any reference or any URL to apply for the job)
-Characters
-255 Characters
-category
-Category of jobs
-Integer
-Id as per decided and declared by fashionunited
-expiry_date
-Expiry date for the job if not set default is 8 weeks
-Date time
-2011-12-31 00:00:00
-salary_currency
-Salary curreny
-Characters
-10 characters
-salary
-Salary in numbers
-Integer
-10 characters
-
-
+| XML Nodes       | Details                                                                 | Data Type                      | Data Size                                       |
+|-----------------|-------------------------------------------------------------------------|--------------------------------|-------------------------------------------------|
+| username        | Username provided by FashionUnited to API User                          | Character                      | 200 characters                                  |
+| password        | Password Provided by FashionUnited to API User                          | Character & special Characters | 100 characters                                  |
+| sender          | Sender Name                                                             | Characters                     | 150 Characters                                  |
+| cust_job_id     | Customer job ID which must be unique                                    | Integer                        | 40                                              |
+| published       | Status to publish or unpublish                                          | Enum                           | 1 or 0 (1 to publish and 0 to unpublish)        |
+| job_title       | Title of the job                                                        | Characters                     | 255 Characters                                  |
+| company_name    | Name of the company offering the job                                    | Characters                     | 255 characters                                  |
+| location        | Job location (City or area)                                             | Character                      | 255 Characters                                  |
+| country         | Country of job                                                          | Integer                        | As defined by fashionunited                     |
+| cname           | Contact name of concern person for the job                              | Characters                     | 255 characters                                  |
+| cemail          | Contact email                                                           | Characters                     | 255 characters                                  |
+| cphone          | Contact phone number                                                    | Integers                       | 255 characters                                  |
+| description     | Jobs description along with images if needed allowed in HTML format     | Text                           | 2500 Characters                                 |
+| htapply         | Ho to apply for the job (any reference or any URL to apply for the job) | Characters                     | 255 Characters                                  |
+| category        | Category of jobs                                                        | Integer                        | Id as per decided and declared by fashionunited |
+| expiry_date     | Expiry date for the job if not set default is 8 weeks                   | Date time                      | 31/12/2011 00:00:00                             |
+| salary_currency | Salary curreny                                                          | Characters                     | 10 characters                                   |
+| salary          | Salary in numbers                                                       | Integer                        | 10 characters                                   |
 
 
 
@@ -171,7 +107,7 @@ Deleting a job(s)
 ```
 
 
-Procedure :
+### Procedure
 
 To post the XML file you need to post it on URL with above format
 
@@ -181,7 +117,7 @@ I am attaching the job post form PHP coding which you can refer to understand th
 
 
 
-Error Handling : 
+### Error Handling
 
 Method Cannot be blank (if add or delete method is missing from post).
 submit Cannot be blank (if submit is blank).
