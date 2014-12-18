@@ -146,7 +146,39 @@ Fashionunited for Websites is a suite of embeddable widgets, buttons, and client
 
 The Jobs API retrieves jobs through one simple keyword. It is thoroughly excellent.
 
+Also to be found here is information about Sponsored Messages, Banners, (Employer) Branding Pages, Use of Logo and so on.
 
+###Banners
+We deploy banners in various image and file sizes. Here's an overview:
+
+| banner name      | format (px)        | max. file size (kB)  | 
+|------------------|--------------------|----------------------|
+| Work for Brands  | 150 x 50           | 20                   |
+| Calendar         | 234 x 60           | 30                   |
+| Top Half         | 468 x 90           | 60                   |
+| Leaderboard      | 728 x 90           | 60                   |
+| Top Full         | 970 x 90           | 60                   |
+| Medium Rectangle | 300 x 250          | 60                   |
+| Half Page        | 300 x 600          | 60                   |
+| Wallpaper   	   | 260 x 1200         | 60                   |
+
+File types supported for primary files: GIF, HTML5, HTML, JPEG, JPG, PDF, PNG, and TXT. A destination URL must also be provided.
+
+###Sponsored Messages
+aantal woorden
+aantal images
+image sizes
+aanlever deadlines (evt. nieuwsbrief?)
+
+###Logo
+The logo makes the link between fashion and uniting everyone working within the industry, which of course the name FashionUnited embodies. It is displayed in a stylish and modern font, with an emphasis on the word United by making that bold.
+
+The normal logo with FASHIONUNITED spelled together is preferred. But in terms of size, this is sometimes suboptimal, 
+therefore the square version created. It must always be accompanied by the circular logo with the F in it, or favicon.
+
+In principle, the logo will only be used in black or in white. The background color or the image the logo is placed upon may vary in color, so obviously it depends on that whether the white or black logo is to be used. 
+
+(logo placement, fonts used, download link?)
 
 
 
