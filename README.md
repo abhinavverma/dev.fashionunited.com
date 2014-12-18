@@ -165,10 +165,9 @@ We deploy banners in various image and file sizes. Here's an overview:
 File types supported for primary files: GIF, HTML5, HTML, JPEG, JPG, PDF, PNG, and TXT. A destination URL must also be provided.
 
 ###Sponsored Messages
-aantal woorden
-aantal images
-image sizes
-aanlever deadlines (evt. nieuwsbrief?)
+Sponsored Message texts need to be supplied in a .txt or Word file. Please mark the TITLE and, if applicable, LINKS clearly (including target URL). Image size: at least 800 x 500 px, 72 dpi, but preferably larger than that. Definitely NOT smaller.
+
+[aantal  / aantal images / aanlever deadlines (evt. nieuwsbrief?)]
 
 ###Logo
 The logo makes the link between fashion and uniting everyone working within the industry, which of course the name FashionUnited embodies. It is displayed in a stylish and modern font, with an emphasis on the word United by making that bold.
