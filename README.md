@@ -144,9 +144,13 @@ FashionUnited for Websites
 --------------------------
 Fashionunited for Websites is a suite of embeddable widgets, buttons, and client-side scripting tools to integrate Fashionunited and display jobs on your website or JavaScript application, including the Universal Job Apply Button, Embedded Jobs, and Embedded Job Timelines.
 
-The Jobs API retrieves jobs through one simple keyword. It is thoroughly excellent.
+###Embedded Job API
 
-Also to be found here is information about Sponsored Messages, Banners, (Employer) Branding Pages, Use of Logo and so on.
+With this API one can easily display jobs on ones own website while the jobs are being hosted by us. This saves people from having to setup an infrastructure to handle vacancies and also generates far more traffic than publishing jobs on their own website. 
+
+Some examples: [Hugo Boss](http://www.fashionunited.com/jobs/hugoboss/), [Gerry Weber](http://www.fashionunited.com/jobs/gerryweber/), [GAB](http://www.fashionunited.com/jobs/gab/), [Men at Work](http://www.fashionunited.com/jobs/menatwork/), [JD Sports NL](http://www.fashionunited.com/jobs/jdsportsnl/), [IKKS](http://www.fashionunited.com/jobs/ikks/), [Witteveen](http://www.fashionunited.com/jobs/witteveen/), [Sergent Major](http://www.fashionunited.com/jobs/sergentmajor/), [Derhy](http://www.fashionunited.com/jobs/derhy/), [Eric Bompard](http://www.fashionunited.com/jobs/ericbompard/)
+
+To place this API in your own website, all you need to do is paste one single line of code on any page or site you want for it to display. It's in fact easier than embedding a YouTube video. 
 
 ###Banners
 We deploy banners in various image and file sizes. Here's an overview:
