@@ -150,7 +150,17 @@ With this API one can easily display jobs on ones own website while the jobs are
 
 Some examples: [Hugo Boss](http://www.fashionunited.com/jobs/hugoboss/), [Gerry Weber](http://www.fashionunited.com/jobs/gerryweber/), [GAB](http://www.fashionunited.com/jobs/gab/), [Men at Work](http://www.fashionunited.com/jobs/menatwork/), [JD Sports NL](http://www.fashionunited.com/jobs/jdsportsnl/), [IKKS](http://www.fashionunited.com/jobs/ikks/), [Witteveen](http://www.fashionunited.com/jobs/witteveen/), [Sergent Major](http://www.fashionunited.com/jobs/sergentmajor/), [Derhy](http://www.fashionunited.com/jobs/derhy/), [Eric Bompard](http://www.fashionunited.com/jobs/ericbompard/)
 
-To place this API in your own website, all you need to do is paste one single line of code on any page or site you want for it to display. It's in fact easier than embedding a YouTube video. 
+To place this API in your own website, all you need to do is paste one single line of code on any page or site you want for it to display. It's in fact easier than embedding a YouTube video.
+
+
+###Employer Branding Page
+
+In order to signify a brand name from a company, we developed the Employer Branding Page. Here you can show people what it is like working for a company, without interfering with the marketing for collections for that company. Also other information about the company, such as its different labels, statistics, history, video or images, it's all possible.
+
+Examples: [Adidas](http://www.fashionunited.co.uk/adidas), [Veldhoven](http://www.fashionunited.nl/veldhovengroup/), [Peek & Cloppenburg](http://www.fashionunited.de/pc%11Peek%11Cloppenburg/), [Grupo Cortefiel](http://www.fashionunited.es/grupo-cortefiel).
+
+Images supplied need to be high resolution 300dpi and can be supplied in JPG, PDF, TIFF, GIF or BMP format. 
+
 
 ###Banners
 We deploy banners in various image and file sizes. Here's an overview:
