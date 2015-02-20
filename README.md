@@ -137,7 +137,11 @@ Problem in deleting the job at (portal name), this shows delete request is not g
 
 Jobs non-API (pull) - XML Feeds
 -------------------------------
-Explanation here
+### Introduction
+
+FashionUnited’s Non API service provides a full suite of real-time, highly available Jobboard transactions. This service opens the door to FashionUnited’s infrastructure and enables you to execute a wide variety of jobboard transactions empowering you to make the best decisions and interact with FashionUnited. We are constantly reviewing our suite of services for completeness, accuracy and usefulness.
+
+
 
 
 FashionUnited for Websites
