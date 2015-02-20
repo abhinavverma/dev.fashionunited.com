@@ -148,6 +148,7 @@ XML is a highly flexible and extendable standard, in a relatively short period o
 Our idea behind the XML integration is to deploy all jobs from your jobboard to FashionUnited jobboard with implementing XML data exchange program, in which the desired company may need to create a XML file with multiple nodes for jobs, which will be read by our system in interval of 1 hour everyday 5 days a week, and import all populated job within your XML to our system as soon as a job arrives to our system it will be validated for certain standard manually by our webmaster and will goes online once it get validated the whole process took around 30 min of time at max.
 
 As of now we provide jobboard services for following countries :
+
 1. The Netherlands : https://fashionunited.nl (Country ISO : NL) 
 2. Germany : https://fashionunited.de (Country ISO : DE)
 3. United Kingdom : https://fashionunited.co.uk (Country ISO : GB)
@@ -161,6 +162,7 @@ As of now we provide jobboard services for following countries :
 12. United States of America : https://fashionunited.com (Country ISO : US)
 
 Upcomming FashionUnited Jobboard : 
+
 1. China : https://fashionunited.cn (Country ISO : CN)
 2. Mexico : https://fashionunited.mx (Country ISO : MX)
 3. Peru : https://fashionunited.com.pe (Country ISO : PE)
