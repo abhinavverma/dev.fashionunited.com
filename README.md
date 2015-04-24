@@ -83,7 +83,7 @@ Adding a job:
 | cname           | Contact name of concern person for the job                              | Characters                     | 255 characters                                  |
 | cemail          | Contact email                                                           | Characters                     | 255 characters                                  |
 | cphone          | Contact phone number                                                    | Integers                       | 255 characters                                  |
-| description     | Jobs description along with images if needed allowed in HTML format     | Text                           | 2500 Characters                                 |
+| description     | Jobs description along with images if needed allowed in HTML format (allowed tags are : div, p, span, button) head tags, meta tags and tags defined within head are not allowed like script, link etc.      | Text                           | 2500 Characters                                 |
 | htapply         | Ho to apply for the job (any reference or any URL to apply for the job) | Characters                     | 255 Characters                                  |
 | category        | Category of jobs                                                        | Integer                        | Id as per decided and declared by fashionunited |
 | expiry_date     | Expiry date for the job if not set default is 8 weeks                   | Date time                      | 31/12/2011 00:00:00                             |
